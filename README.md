@@ -1,6 +1,6 @@
 ### apod-explorer
 
-https://api.travis-ci.com/mgzwarrior/apod-explorer.svg?branch=master
+[![Build Status](https://api.travis-ci.com/mgzwarrior/apod-explorer.svg?branch=master)](https://travis-ci.com/mgzwarrior/apod-explorer)
 
 `apod-explorer` is an application that serves two primary purposes:
 
